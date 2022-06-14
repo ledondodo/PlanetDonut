@@ -1,6 +1,6 @@
 # PlanetDonut
 Planet Donut is a simulation of robots searching for ressources on a "donut-shaped planet", such as the map is looping on itself.
-This was my second programming project at EPFL, in Bachelor Microengineering.
+This was my second C++ programming project at EPFL, in Bachelor Microengineering.
 
 ## Launch the program
 First open the directory using the terminal, and type "make". It will create the executable file, and update the dependancies.
@@ -20,7 +20,7 @@ On the bottom you can read the advencement of each base. You can get the number 
 On the right you can see the map of the simulation.
 
 ## Create your own map
-If you want to create your own map and try a simulation, you can refer to the document [PLANET DONUT.pdf](PLANET DONUT) page 8 wich details how to write the .txt file.
+If you want to create your own map and try a simulation, you can refer to the document [PLANET DONUT](PLANET DONUT) page 8 wich details how to write the .txt file.
 
 ## Libraries
 This project uses GTKmm graphic interface.
