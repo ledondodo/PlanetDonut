@@ -24,3 +24,6 @@ If you want to create your own map and try a simulation, you can refer to the do
 
 ## Libraries
 This project uses GTKmm graphic interface.
+
+## License
+[MIT License](LICENSE)
