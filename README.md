@@ -9,7 +9,7 @@ It was my second C++ programming project at EPFL, in Bachelor Microengineering.
 ## Launch the program
 First open the directory using the terminal, and type "make". It will create the executable file, and update the dependancies.
 To launch the program type "./projet".
-To launch the program and open the map XX type "./projet maps/mapXX". You can find all the maps in the folder "maps".
+To launch the program and open the map #XX type "./projet maps/mapXX". You can find all the maps in the folder "maps".
 
 ## How it works ?
 As you launch the program, it displays a new window.
