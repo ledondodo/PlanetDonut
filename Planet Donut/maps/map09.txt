@@ -1,0 +1,23 @@
+# Sauvegarde
+
+# Gisement
+0
+# Gisements:
+	#950 0 150 9000
+	#0 950 150 9000
+	#-950 950 150 9000
+
+# nb Base
+1
+# Bases:
+	0 0 9000 0 0 0 1
+	# Prospector:
+	#0 0 950 950 -950 -900 false false false 
+	# Drilling:
+	#2 0 400 300 950 0 false
+	#Transport:
+	#3 0 500 450 950 0 false false
+	#Communication:
+	1 0 0 0 0 0 true
+
+

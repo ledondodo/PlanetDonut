@@ -1,0 +1,20 @@
+# fichier de test rendu3_02.txt 
+# scenario: une base n'a plus de ressource => destruction en fin de 1iere mise à jour
+
+# gisement
+1
+0   0    50  1000
+
+# Bases
+3 # nbB
+
+300 300 1000 0 0 0 1
+   1 0 300 300 300 300 true 
+   
+500 500 0 0 0 0 1
+   1 0 500 500 500 500 true 
+
+700 700 1000 0 0 0 1
+   1 0 700 700 700 700 true 
+
+   

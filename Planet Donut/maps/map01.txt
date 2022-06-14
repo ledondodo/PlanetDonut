@@ -1,0 +1,15 @@
+# fichier de test rendu3_01.txt : rebouclement
+# gisements
+3
+950    0   150  9000
+0    950   150  9000
+950  950   150  9000
+
+# Bases
+1 # nbB
+
+500 500 1000 0 0 0 1
+   1 0 500 500 500 500 true 
+
+
+   
