@@ -4,7 +4,7 @@ This was my second C++ programming project at EPFL, in Bachelor Microengineering
 
 <p align="center">
   <img src="img/simulation.png" alt="Simulation" width=50% height=50%>
-<\p>
+<p>
 
 ## Launch the program
 First open the directory using the terminal, and type "make". It will create the executable file, and update the dependancies.
