@@ -2,7 +2,9 @@
 Planet Donut is a simulation of robots searching for ressources on a "donut-shaped planet", such as the map is looping on itself.
 This was my second C++ programming project at EPFL, in Bachelor Microengineering.
 
-<img src="img/simulation.png" alt="Simulation" width=50% height=50%>
+<div style="text-align: center;">
+  <img src="img/simulation.png" alt="Simulation" width=50% height=50%>
+<\div>
 
 ## Launch the program
 First open the directory using the terminal, and type "make". It will create the executable file, and update the dependancies.
