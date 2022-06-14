@@ -20,7 +20,7 @@ On the bottom you can read the advencement of each base. You can get the number 
 On the right you can see the map of the simulation.
 
 ## Create your own map
-If you want to create your own map and try a simulation, you can refer to the document planetdonut.pdf page 8 wich details how to write the .txt file.
+If you want to create your own map and try a simulation, you can refer to the document [planetdonut](planetdonut.pdf) page 8 wich details how to write the .txt file.
 
 ## Libraries
 This project uses GTKmm graphic interface.
