@@ -11,7 +11,7 @@ First open the directory using the terminal, and type "make". It will create the
 To launch the program type "./projet".
 To launch the program and open the map #XX type "./projet maps/mapXX.txt". You can find all the maps in the folder "maps".
 
-## How it works ?
+## How does it works ?
 As you launch the program, it displays a new window.
 
 On the left you got a set of buttons to interact with the program.
