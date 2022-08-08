@@ -27,7 +27,7 @@ On the right you can see the map of the simulation.
 If you want to create your own map and try a simulation, you can refer to the document [planetdonut](planetdonut.pdf) page 8 wich details how to write the .txt file.
 
 ## Collaborators
-I worked on this project with (B3NITAL)[https://github.com/B3NITAL].
+I worked on this project with [B3NITAL](https://github.com/B3NITAL).
 
 ## Libraries
 This project uses GTKmm graphic interface.
